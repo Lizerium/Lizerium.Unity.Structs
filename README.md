@@ -1,4 +1,4 @@
-<h1 align="center">🎮 Lizerium.Game.Structs 🎮</h1>
+<h1 align="center">🎮 Lizerium.Unity.Structs 🎮</h1>
 
 <p align="center">
   Структурная карта игровых данных и форматов Unity ветки Lizerium
