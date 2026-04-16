@@ -1,4 +1,7 @@
-<h1 align="center">🎮 Lizerium.Unity.Structs 🎮</h1>
+<h1 align="center">
+  <img src="https://raw.githubusercontent.com/Lizerium/.github/main/media/logo.png" width="32" style="vertical-align: middle;" />
+  Lizerium.Unity.Structs
+</h1>
 
 <p align="center">
   Structural map of game data and formats for the Unity branch of Lizerium
